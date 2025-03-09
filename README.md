@@ -1,6 +1,6 @@
 # Highschool_hensachi_in_Japan
 
-以下のリンクにあるみんなの高校情報の高校偏差値一覧情報を作成しました。
+以下のリンクにある「みんなの高校情報」から2025年度の高校偏差値一覧情報を作成しました。
 
 https://www.minkou.jp/hischool/
 
